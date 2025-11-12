@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     var someValue:Int?
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello Sir ji ju ")
+        print("Hello Sir ji jugal ")
         // Do any additional setup after loading the view.
     }
 
